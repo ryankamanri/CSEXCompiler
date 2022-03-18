@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CompileCsx": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\repos\\ConsoleApp1\\ConsoleApp1\\csex\" \"E:\\repos\\ConsoleApp1\\ConsoleApp1\""
+    }
+  }
+}
